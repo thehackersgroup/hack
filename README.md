@@ -29,6 +29,7 @@ We also have a machine learning pipeline set up for the classification of primit
 ## Case sequences
 ### Sequence 1
 getting_in_and_out
+
 1. Getting in
 2. Riding the elevator up
 3. Getting out
