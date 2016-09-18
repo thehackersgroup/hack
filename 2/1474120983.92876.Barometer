@@ -1,0 +1,608 @@
+[
+  {
+    "relativeAltitude" : -0.432037353515625,
+    "pressure" : 96.77231597900391,
+    "date" : "2016-09-17T16:00:43.564+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.439361572265625,
+    "pressure" : 96.77239990234375,
+    "date" : "2016-09-17T16:00:44.969+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.47119140625,
+    "pressure" : 96.77276611328125,
+    "date" : "2016-09-17T16:00:46.370+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.524932861328125,
+    "pressure" : 96.77339172363281,
+    "date" : "2016-09-17T16:00:47.776+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.551025390625,
+    "pressure" : 96.77368927001953,
+    "date" : "2016-09-17T16:00:49.179+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.551544189453125,
+    "pressure" : 96.77369689941406,
+    "date" : "2016-09-17T16:00:50.582+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.585968017578125,
+    "pressure" : 96.77409362792969,
+    "date" : "2016-09-17T16:00:51.986+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.5911865234375,
+    "pressure" : 96.77415466308594,
+    "date" : "2016-09-17T16:00:53.390+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.615203857421875,
+    "pressure" : 96.77442932128906,
+    "date" : "2016-09-17T16:00:54.794+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.717987060546875,
+    "pressure" : 96.77562713623047,
+    "date" : "2016-09-17T16:00:56.198+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.717987060546875,
+    "pressure" : 96.77562713623047,
+    "date" : "2016-09-17T16:00:57.601+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.62249755859375,
+    "pressure" : 96.77451324462891,
+    "date" : "2016-09-17T16:00:59.006+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.62249755859375,
+    "pressure" : 96.77451324462891,
+    "date" : "2016-09-17T16:01:00.409+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.63189697265625,
+    "pressure" : 96.77462768554688,
+    "date" : "2016-09-17T16:01:01.812+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.63189697265625,
+    "pressure" : 96.77462768554688,
+    "date" : "2016-09-17T16:01:03.216+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.600067138671875,
+    "pressure" : 96.77426147460938,
+    "date" : "2016-09-17T16:01:04.627+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.5494384765625,
+    "pressure" : 96.77367401123047,
+    "date" : "2016-09-17T16:01:06.024+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.53955078125,
+    "pressure" : 96.77355194091797,
+    "date" : "2016-09-17T16:01:07.428+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.500396728515625,
+    "pressure" : 96.77310180664062,
+    "date" : "2016-09-17T16:01:08.832+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.500396728515625,
+    "pressure" : 96.77310180664062,
+    "date" : "2016-09-17T16:01:10.236+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.574493408203125,
+    "pressure" : 96.77396392822266,
+    "date" : "2016-09-17T16:01:11.639+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.59014892578125,
+    "pressure" : 96.77413940429688,
+    "date" : "2016-09-17T16:01:13.045+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.59747314453125,
+    "pressure" : 96.77422332763672,
+    "date" : "2016-09-17T16:01:14.458+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.645477294921875,
+    "pressure" : 96.7747802734375,
+    "date" : "2016-09-17T16:01:15.851+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.691375732421875,
+    "pressure" : 96.77531433105469,
+    "date" : "2016-09-17T16:01:17.256+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.691375732421875,
+    "pressure" : 96.77531433105469,
+    "date" : "2016-09-17T16:01:18.658+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.672088623046875,
+    "pressure" : 96.77509307861328,
+    "date" : "2016-09-17T16:01:20.062+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.624603271484375,
+    "pressure" : 96.7745361328125,
+    "date" : "2016-09-17T16:01:21.466+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.624603271484375,
+    "pressure" : 96.7745361328125,
+    "date" : "2016-09-17T16:01:22.874+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.64599609375,
+    "pressure" : 96.77478790283203,
+    "date" : "2016-09-17T16:01:24.274+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.677825927734375,
+    "pressure" : 96.77515411376953,
+    "date" : "2016-09-17T16:01:25.677+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.677825927734375,
+    "pressure" : 96.77515411376953,
+    "date" : "2016-09-17T16:01:27.081+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.670501708984375,
+    "pressure" : 96.77507019042969,
+    "date" : "2016-09-17T16:01:28.490+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.66424560546875,
+    "pressure" : 96.77500152587891,
+    "date" : "2016-09-17T16:01:29.890+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.670501708984375,
+    "pressure" : 96.77507019042969,
+    "date" : "2016-09-17T16:01:31.299+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.73626708984375,
+    "pressure" : 96.77583312988281,
+    "date" : "2016-09-17T16:01:32.697+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7451171875,
+    "pressure" : 96.77593994140625,
+    "date" : "2016-09-17T16:01:34.108+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.809814453125,
+    "pressure" : 96.77668762207031,
+    "date" : "2016-09-17T16:01:35.504+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.82598876953125,
+    "pressure" : 96.77687835693359,
+    "date" : "2016-09-17T16:01:36.908+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.82598876953125,
+    "pressure" : 96.77687835693359,
+    "date" : "2016-09-17T16:01:38.312+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.82598876953125,
+    "pressure" : 96.77687835693359,
+    "date" : "2016-09-17T16:01:39.717+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.87347412109375,
+    "pressure" : 96.77742004394531,
+    "date" : "2016-09-17T16:01:41.120+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.883392333984375,
+    "pressure" : 96.77754211425781,
+    "date" : "2016-09-17T16:01:42.523+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.883392333984375,
+    "pressure" : 96.77754211425781,
+    "date" : "2016-09-17T16:01:43.927+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.870880126953125,
+    "pressure" : 96.77738952636719,
+    "date" : "2016-09-17T16:01:45.331+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.83905029296875,
+    "pressure" : 96.77702331542969,
+    "date" : "2016-09-17T16:01:46.735+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.828094482421875,
+    "pressure" : 96.77690124511719,
+    "date" : "2016-09-17T16:01:48.139+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.834869384765625,
+    "pressure" : 96.7769775390625,
+    "date" : "2016-09-17T16:01:49.543+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.834869384765625,
+    "pressure" : 96.7769775390625,
+    "date" : "2016-09-17T16:01:50.946+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.8458251953125,
+    "pressure" : 96.777099609375,
+    "date" : "2016-09-17T16:01:52.350+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.88079833984375,
+    "pressure" : 96.77751159667969,
+    "date" : "2016-09-17T16:01:53.754+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.9501953125,
+    "pressure" : 96.77831268310547,
+    "date" : "2016-09-17T16:01:55.158+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.9522705078125,
+    "pressure" : 96.77833557128906,
+    "date" : "2016-09-17T16:01:56.562+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.9501953125,
+    "pressure" : 96.77831268310547,
+    "date" : "2016-09-17T16:01:57.966+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.9522705078125,
+    "pressure" : 96.77833557128906,
+    "date" : "2016-09-17T16:01:59.369+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.89434814453125,
+    "pressure" : 96.77766418457031,
+    "date" : "2016-09-17T16:02:00.773+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.9178466796875,
+    "pressure" : 96.77793884277344,
+    "date" : "2016-09-17T16:02:02.177+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.8818359375,
+    "pressure" : 96.77751922607422,
+    "date" : "2016-09-17T16:02:03.582+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.89434814453125,
+    "pressure" : 96.77766418457031,
+    "date" : "2016-09-17T16:02:04.986+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.825469970703125,
+    "pressure" : 96.77687072753906,
+    "date" : "2016-09-17T16:02:06.393+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.89434814453125,
+    "pressure" : 96.77766418457031,
+    "date" : "2016-09-17T16:02:07.796+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.825469970703125,
+    "pressure" : 96.77687072753906,
+    "date" : "2016-09-17T16:02:09.196+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.75714111328125,
+    "pressure" : 96.77607727050781,
+    "date" : "2016-09-17T16:02:10.600+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.710174560546875,
+    "pressure" : 96.77552795410156,
+    "date" : "2016-09-17T16:02:12.007+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.75714111328125,
+    "pressure" : 96.77607727050781,
+    "date" : "2016-09-17T16:02:13.408+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7811279296875,
+    "pressure" : 96.77635192871094,
+    "date" : "2016-09-17T16:02:14.812+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7811279296875,
+    "pressure" : 96.77635192871094,
+    "date" : "2016-09-17T16:02:16.226+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7811279296875,
+    "pressure" : 96.77635192871094,
+    "date" : "2016-09-17T16:02:17.619+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.771728515625,
+    "pressure" : 96.7762451171875,
+    "date" : "2016-09-17T16:02:19.023+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7242431640625,
+    "pressure" : 96.77569580078125,
+    "date" : "2016-09-17T16:02:20.435+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7242431640625,
+    "pressure" : 96.77569580078125,
+    "date" : "2016-09-17T16:02:21.831+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.73626708984375,
+    "pressure" : 96.77583312988281,
+    "date" : "2016-09-17T16:02:23.252+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.73626708984375,
+    "pressure" : 96.77583312988281,
+    "date" : "2016-09-17T16:02:24.639+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.703369140625,
+    "pressure" : 96.77545166015625,
+    "date" : "2016-09-17T16:02:26.042+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.678863525390625,
+    "pressure" : 96.77516937255859,
+    "date" : "2016-09-17T16:02:27.448+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.678863525390625,
+    "pressure" : 96.77516937255859,
+    "date" : "2016-09-17T16:02:28.850+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7127685546875,
+    "pressure" : 96.77556610107422,
+    "date" : "2016-09-17T16:02:30.254+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.794708251953125,
+    "pressure" : 96.77650451660156,
+    "date" : "2016-09-17T16:02:31.658+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.7127685546875,
+    "pressure" : 96.77556610107422,
+    "date" : "2016-09-17T16:02:33.061+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.53326416015625,
+    "pressure" : 96.77348327636719,
+    "date" : "2016-09-17T16:02:34.466+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.53326416015625,
+    "pressure" : 96.77348327636719,
+    "date" : "2016-09-17T16:02:35.869+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.687713623046875,
+    "pressure" : 96.77527618408203,
+    "date" : "2016-09-17T16:02:37.273+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.691375732421875,
+    "pressure" : 96.77531433105469,
+    "date" : "2016-09-17T16:02:38.677+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.786865234375,
+    "pressure" : 96.77642059326172,
+    "date" : "2016-09-17T16:02:40.087+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.8155517578125,
+    "pressure" : 96.77674865722656,
+    "date" : "2016-09-17T16:02:41.494+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.786865234375,
+    "pressure" : 96.77642059326172,
+    "date" : "2016-09-17T16:02:42.881+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.778533935546875,
+    "pressure" : 96.77632141113281,
+    "date" : "2016-09-17T16:02:44.279+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.778533935546875,
+    "pressure" : 96.77632141113281,
+    "date" : "2016-09-17T16:02:45.677+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.779052734375,
+    "pressure" : 96.77632904052734,
+    "date" : "2016-09-17T16:02:47.082+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.807220458984375,
+    "pressure" : 96.77665710449219,
+    "date" : "2016-09-17T16:02:48.491+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.807220458984375,
+    "pressure" : 96.77665710449219,
+    "date" : "2016-09-17T16:02:49.887+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.806182861328125,
+    "pressure" : 96.77664184570312,
+    "date" : "2016-09-17T16:02:51.291+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.756072998046875,
+    "pressure" : 96.77606201171875,
+    "date" : "2016-09-17T16:02:52.695+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.756072998046875,
+    "pressure" : 96.77606201171875,
+    "date" : "2016-09-17T16:02:54.103+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.739898681640625,
+    "pressure" : 96.77587127685547,
+    "date" : "2016-09-17T16:02:55.502+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.71746826171875,
+    "pressure" : 96.77561950683594,
+    "date" : "2016-09-17T16:02:56.906+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.6783447265625,
+    "pressure" : 96.77516174316406,
+    "date" : "2016-09-17T16:02:58.313+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.70391845703125,
+    "pressure" : 96.77545928955078,
+    "date" : "2016-09-17T16:02:59.714+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.695037841796875,
+    "pressure" : 96.77536010742188,
+    "date" : "2016-09-17T16:03:01.118+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.695037841796875,
+    "pressure" : 96.77536010742188,
+    "date" : "2016-09-17T16:03:02.521+02:00",
+    "type" : "Barometer"
+  },
+  {
+    "relativeAltitude" : -0.695037841796875,
+    "pressure" : 96.77536010742188,
+    "date" : "2016-09-17T16:03:03.925+02:00",
+    "type" : "Barometer"
+  }
+]

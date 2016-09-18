@@ -1,0 +1,14 @@
+[
+  {
+    "start_time": 1474103760,
+    "end_time": 1474103925,
+    "label": "getting_in_and_out",
+    "description": "getting in, riding the elevator up, getting out, getting in, riding the elevator down, getting out, getting in, riding the elevator down, getting out"
+  },
+  {
+    "start_time": 1474104240,
+    "end_time": 1474104328,
+    "label": "walk_and_ride",
+    "description": "sitting, walking, riding the elevator down, walking"
+  }
+]

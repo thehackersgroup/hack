@@ -1,0 +1,14 @@
+[
+  {
+    "start_time": "1474121073",
+    "end_time": "1474121227",
+    "label": "elevator_up_and_stairs_down",
+    "description": "(phone in the pocket): walking to the elevator, taking the elevator up, walking stairs down, walking back"
+  },
+  {
+    "start_time": "1474122812",
+    "end_time": "1474123067",
+    "label": "riding_the_elevator_is_fun",
+    "description": "(phone in the pocket): walking to the elevator, entering/exiting/riding the elevator many times, walking back to the seat, sitting"
+  }
+]
