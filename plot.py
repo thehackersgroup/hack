@@ -33,24 +33,48 @@ ap4.set(x_range=Range1d(min(ax), max(ax)))
 grid = gridplot([[ap1], [ap2], [ap3], [ap4]])
 show(grid)
 
+
+
 output_file("2.html")
 
 x = [t.seconds for t in (df_baro.index - df_baro.index[0])]
 y0 = df_baro['alt']
-y1 = [int(1.0 *_y / 4 + 0.5) for _y in df_baro['alt_steps_height']]
+y1 = [(1.0 *_y / 4) for _y in df_baro['alt_steps_height']]
 y2 = df_baro['alt_steps']
 
 p1 = figure(width=1200, plot_height=250, title='Relative altitude (from barometer)')
 p1.line(x, y0, color=Viridis256[200])
 p1.set(x_range=Range1d(min(x), max(x)))
 
-p2 = figure(width=1200, height=250, title='Approximated number of changed floors')
-p2.line(x, y1, color=Viridis3[1])
+p2 = figure(width=1200, height=250, title='Vertical movement patterns')
+p2.circle(x, [_y2 if _y2 != 0 else NaN for _y2 in y2], color=Viridis256[2], size=30)
 p2.set(x_range=Range1d(min(x), max(x)))
 
-p3 = figure(width=1200, height=250, title='Vertical movement patterns')
-p3.circle(x, [_y2 if _y2 != 0 else NaN for _y2 in y2], color=Viridis256[2], size=30)
+p3 = figure(width=1200, height=250, title='Approximated number of changed floors')
+p3.line(x, y1, color=Viridis3[1])
 p3.set(x_range=Range1d(min(x), max(x)))
 
 grid = gridplot([[p1], [p2], [p3]])
+show(grid)
+
+
+
+
+
+output_file("3.html")
+
+sap4 = figure(width=1200, height=250, title='Physical acctivity (running, walking, ...)')
+sap4.circle(ax, [_y if _y == 1 else NaN for _y in ay3], color=Viridis3[0], size=30)
+sap4.set(x_range=Range1d(min(ax), max(ax)))
+
+sp2 = figure(width=1200, height=250, title='Vertical movement patterns')
+sp2.circle(x, [_y2 if _y2 != 0 else NaN for _y2 in y2], color=Viridis3[1], size=30)
+sp2.set(x_range=Range1d(min(x), max(x)))
+
+sp3 = figure(width=1200, height=250, title='Approximated number of changed floors')
+sp3.line(x, y1, color=Viridis3[2])
+sp3.set(x_range=Range1d(min(x), max(x)))
+
+
+grid = gridplot([[sap4], [sp2], [sp3]])
 show(grid)
