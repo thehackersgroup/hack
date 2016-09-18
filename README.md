@@ -28,7 +28,7 @@ Classify short and simple patterns in measured data into primitives, then use th
 * Detecting presence of activity by filtering for high variance in the total magnitude of acceleration.
 
 ### Machine learning  pipeline
-We also have a machine learning pipeline set up for the classification of primitives: activity/no activity (activity_sklearn.py); elevator start/stop/neither (elevator_sklearn.py), generating input data for classifiers. However, we did not end up using it in lack of sufficient data to train these models and due the primitives being easily identifiable using simpler and more robust methods.
+We also have a machine learning pipeline set up for the classification of primitives: activity/no activity (ml/activity_sklearn.py); ml/elevator start/stop/neither (elevator_sklearn.py), generating input data for classifiers (see examples on figures in ml/). However, we did not end up using it in lack of sufficient data to train these models and due the primitives being easily identifiable using simpler and more robust methods.
 
 ## Case sequences
 ### Sequence 1
