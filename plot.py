@@ -6,7 +6,7 @@ from bokeh.models import Range1d, Label
 
 # adapted from doc examples
 
-output_file("1.html")
+output_file("dashboard/%s/1.html" % DATASET)
 
 ax = [t.seconds for t in (df_accel.index - df_accel.index[0])]
 ay0 = df_accel['x']
@@ -31,7 +31,7 @@ show(grid)
 
 
 
-output_file("2.html")
+output_file("dashboard/%s/2.html" % DATASET)
 
 x = [t.seconds for t in (df_baro.index - df_baro.index[0])]
 y0 = df_baro['alt']
@@ -54,7 +54,7 @@ grid = gridplot([[p1], [p2], [p3]])
 show(grid)
 
 
-output_file("sum.html")
+output_file("dashboard/%s/summary.html" % DATASET)
 
 sap4 = figure(width=1200, height=250, title='Identified physical acctivity (running, walking, ...)')
 sap4.circle(ax, [_y if _y == 1 else NaN for _y in ay3], color=Viridis3[0], size=30)
