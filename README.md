@@ -63,6 +63,22 @@ __riding_the_elevator_is_fun__
 3. Walking back to the seat
 4. Sitting
 
+### Sequence 3
+
+__stairway_workout__
+
+1. Walking up the stairs
+2. 2-stepping up the stairwell
+3. Walking towards elevators and waiting
+4. Riding the elevator down
+5. Walking back to seat
+
+__escalator_fun__
+
+1. Riding up escalator
+2. Walking
+3. Riding down escalator
+
 ## Authors
 * David Gugelmann
 * Maria Apostolaki
