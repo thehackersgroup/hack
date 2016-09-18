@@ -1,4 +1,4 @@
-# When Crowd Meets Elavators
+# When Crowd Meets Elevators
 
 ## Challenge
 Make use of sensor data from phones to infer activity patterns
@@ -23,4 +23,8 @@ Classify short and simple patterns in measured data into primitives, then use th
   * Starting
   * Stopping
 
-## Classifiers
+## Authors
+* David Gugelmann
+* Maria Apostolaki
+* Edith Schmid
+* Veronika
