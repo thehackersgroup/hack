@@ -72,7 +72,7 @@ sp2.circle(x, [_y2 if _y2 != 0 else NaN for _y2 in y2], color=Viridis3[1], size=
 sp2.set(x_range=Range1d(min(x), max(x)))
 
 sp3 = figure(width=1200, height=250, title='Approximated number of changed floors')
-sp3.line(x, y1, color=Viridis3[2])
+sp3.line(x, y1, color=Viridis256[200])
 sp3.set(x_range=Range1d(min(x), max(x)))
 
 
