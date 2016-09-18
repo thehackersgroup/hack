@@ -105,6 +105,6 @@ smart cities / buildings
 
 ## Authors
 * David Gugelmann dg2 [at] Gugelmann [dot] com 
-* Maria Apostolaki apostolaki.a.maria [at] gmail [dot] com
+* Maria Apostolaki apostolaki [dot] a [dot] maria [at] gmail [dot] com
 * Edith Schmid edith [at] e [dot] chmid@gmail [dot] com
 * Veronika Siska vs389 [at] cam [dot] ac [dot] uk
