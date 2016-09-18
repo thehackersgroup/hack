@@ -85,18 +85,20 @@ __escalator_fun__
 3. Riding down escalator
 
 ## Business_case
-Future classifiers (thinking big)
+__Future classifiers__
 Posture: Lying, sitting, standing
 Vigor: Resting, light, middle, strong, extreme
 Motion type: Linear, rhythmic, rotational, erratic, stop-and-go
 3D pattern: Stationary, occasional jumps, constantly climbing, small or large height amplitudes (e.g. aided vs. unaided)
 Shocks: None, occasional, frequent (e.g. collisions between players, ball received, tennis stroke, soccer kick)
 
-Business case
+__B2C__
 Integrate (pre-)classified motion patterns into a tech wearable, e.g. for
 healthcare (predictive and preventive care)
 sports and fitness (motion analysis, avoidable injuries)
 insurance (incentivized behavior)
+
+__B2C__
 Offer solutions for businesses, e.g.
 crowd management (e.g. transit flow, advertising spaces)
 smart cities / buildings
