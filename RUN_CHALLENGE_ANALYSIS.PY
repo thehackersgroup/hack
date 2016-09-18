@@ -13,7 +13,7 @@ DATA[3] = {'detect_step_width': 20, 'plot_gt': True, 'rolling_std_width': 50, 'i
 
 OUT_DIR = '.'
 
-for DATASET in DATA.keys():
+for DATASET in DATA.keys()[1:2]:
 
     print '### %s ###' % DATASET
     
