@@ -14,23 +14,19 @@ ay1 = df_accel['y']
 ay2 = df_accel['z']
 ay3 = df_accel['is_activity']
 
-ap1 = figure(width=1200, plot_height=250, title='x')
+ap1 = figure(width=1200, plot_height=250, title='Acceleration - x')
 ap1.line(ax, ay0, color=Viridis256[200])
 ap1.set(x_range=Range1d(min(ax), max(ax)))
 
-ap2 = figure(width=1200, height=250, title='y')
+ap2 = figure(width=1200, height=250, title='Acceleration - y')
 ap2.line(ax, ay1, color=Viridis3[1])
 ap2.set(x_range=Range1d(min(ax), max(ax)))
 
-ap3 = figure(width=1200, height=250, title='z')
+ap3 = figure(width=1200, height=250, title='Acceleration - z')
 ap3.line(ax, ay2, color=Viridis3[2])
 ap3.set(x_range=Range1d(min(ax), max(ax)))
 
-ap4 = figure(width=1200, height=250, title='Physical acctivity (running, walking, ...)')
-ap4.circle(ax, [_y if _y == 1 else NaN for _y in ay3], color=Viridis256[2], size=30)
-ap4.set(x_range=Range1d(min(ax), max(ax)))
-
-grid = gridplot([[ap1], [ap2], [ap3], [ap4]])
+grid = gridplot([[ap1], [ap2], [ap3]])
 show(grid)
 
 
@@ -59,11 +55,9 @@ show(grid)
 
 
 
+output_file("sum.html")
 
-
-output_file("3.html")
-
-sap4 = figure(width=1200, height=250, title='Physical acctivity (running, walking, ...)')
+sap4 = figure(width=1200, height=250, title='Identified physical acctivity (running, walking, ...)')
 sap4.circle(ax, [_y if _y == 1 else NaN for _y in ay3], color=Viridis3[0], size=30)
 sap4.set(x_range=Range1d(min(ax), max(ax)))
 
