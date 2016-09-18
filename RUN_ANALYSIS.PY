@@ -21,5 +21,7 @@ for DATASET in DATA:
     execfile('analyze_baro.py')
 
     execfile('visualise.py')
+    
+    execfile('history2.py')
 
     execfile('plot.py')

@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+df_baro['date']=df_baro.index
+df_accel['date']=df_accel.index
 a=df_baro.to_dict(orient='records')
 b=df_accel.to_dict(orient='records')
 
@@ -24,13 +26,10 @@ for rec in b:
 			history[rec['date']]['duration']=0
 		start_date=rec['date']
 
-
-
-
 for p in sorted(history):
 	if 'dir' not in history[p] and history[p]['active']==True and history[p]['duration']>1:
-		print p, ': Ms X is started moving'
+		print p, ': Ms X started moving'
 	elif 'dir' not in history[p] and history[p]['active']==False :
 		print p, ': Ms X sits'
 	elif 'dir' in history[p] :
-		print p, ': Ms X using the elevator to go ', history[p]['dir']
+		print p, ': Ms X is using the elevator to go ', history[p]['dir']

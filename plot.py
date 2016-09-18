@@ -2,7 +2,7 @@ from bokeh.io import output_file, show
 from bokeh.layouts import gridplot
 from bokeh.palettes import Viridis3, Viridis256
 from bokeh.plotting import figure
-from bokeh.models import Range1d
+from bokeh.models import Range1d, Label
 
 # adapted from doc examples
 
@@ -54,7 +54,6 @@ grid = gridplot([[p1], [p2], [p3]])
 show(grid)
 
 
-
 output_file("sum.html")
 
 sap4 = figure(width=1200, height=250, title='Identified physical acctivity (running, walking, ...)')
@@ -69,6 +68,22 @@ sp3 = figure(width=1200, height=250, title='Approximated number of changed floor
 sp3.line(x, y1, color=Viridis256[200])
 sp3.set(x_range=Range1d(min(x), max(x)))
 
+for i, p in enumerate(sorted(history)):
+    if 'dir' not in history[p] and history[p]['active']==True and history[p]['duration']>1:
+        txt = '%s Ms X started moving' % p
+    elif 'dir' not in history[p] and history[p]['active']==False :
+        txt = '%s Ms X sits' % p
+    elif 'dir' in history[p] :
+        txt = '%s Ms X is using the elevator to go %s' % (p, history[p]['dir'])
+    print txt
+    y = -30 -i * 30
+
+    label = Label(x=30, y=y, x_units='screen', y_units='screen',
+                 text=txt, render_mode='css', border_line_alpha=1.0,
+                 background_fill_color='white', background_fill_alpha=1.0, angle=0)
+
+    sp3.add_layout(label)
 
 grid = gridplot([[sap4], [sp2], [sp3]])
+
 show(grid)
