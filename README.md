@@ -16,11 +16,11 @@ Classify short and simple patterns in measured data into primitives, then use th
 ### Primitives
 * Resting
 * Movement
-** Walking
-** Running
+  * Walking
+  * Running
 * Elavator
-** Change in elavation
-** Starting
-** Stopping
+  * Change in elavation
+  * Starting
+  * Stopping
 
 ## Classifiers
