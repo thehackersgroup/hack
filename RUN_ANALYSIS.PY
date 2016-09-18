@@ -20,7 +20,7 @@ for DATASET in DATA:
     
     execfile('analyze_baro.py')
 
-    execfile('visualise.py')
+    execfile('analyze_acc.py')
     
     execfile('history2.py')
 
