@@ -1,7 +1,7 @@
 # Motion analytics in the wild
 
 ## Challenge
-Extract and classify distinct motion patterns from inertial data, in order to track activity
+Extract and classify distinct motion patterns from inertial data in order to track activity
 
 
 ## Method
