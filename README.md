@@ -6,7 +6,7 @@ Make use of sensor data from phones to infer activity patterns
 ## Method
 Classify short and simple patterns in measured data into primitives, then use them to identify complex sequences of activities
 
-### Data
+### Measured data
 * Three axes of acceleration
 * Barometric pressure
 * Three axes of rotation [not yet used]
@@ -23,8 +23,12 @@ Classify short and simple patterns in measured data into primitives, then use th
   * Starting
   * Stopping
 
+### Methods to detect primitives
+* Detecting of elevator rides by step function detection on barometric pressure and measuring vertical distance travelled by measuring height in the step function.
+* Detecting presence of activity by filtering for high variance in the total magnitude of acceleration.
+
 ### Machine learning  pipeline
-We also have a machine learning pipeline set up for the classification of primitives: activity/no activity; elevator start/stop/neither. However, we did not end up using it in lack of data.
+We also have a machine learning pipeline set up for the classification of primitives: activity/no activity (activity_sklearn.py); elevator start/stop/neither (elevator_sklearn.py), generating input data for classifiers. However, we did not end up using it in lack of sufficient data to train these models and due the primitives being easily identifiable using simpler and more robust methods.
 
 ## Case sequences
 ### Sequence 1
