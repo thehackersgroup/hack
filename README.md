@@ -28,7 +28,7 @@ We also have a machine learning pipeline set up for the classification of primit
 
 ## Case sequences
 ### Sequence 1
-getting_in_and_out
+__getting_in_and_out__
 
 1. Getting in
 2. Riding the elevator up
@@ -40,7 +40,8 @@ getting_in_and_out
 8. Riding the elevator down
 9. Getting out
 
-walk_and_ride
+__walk_and_ride__
+
 1. Sitting
 2. Walking
 3. Riding the elevator down
@@ -48,7 +49,19 @@ walk_and_ride
 
 ### Sequence 2
 
+__elevator_up_and_stairs_down__
 
+1. Walking to the elevator
+2. Taking the elevator
+3. Walking stairs down
+4. Walking back
+
+__riding_the_elevator_is_fun__
+
+1. Walking to the elevator
+2. Entering/exiting/riding the elevator many times
+3. Walking back to the seat
+4. Sitting
 
 ## Authors
 * David Gugelmann
