@@ -31,6 +31,10 @@ Classify short and simple patterns in measured data into primitives, then use th
 ### Machine learning  pipeline
 We also have a machine learning pipeline set up for the classification of primitives: activity/no activity (activity_sklearn.py); elevator start/stop/neither (elevator_sklearn.py), generating input data for classifiers. However, we did not end up using it in lack of sufficient data to train these models and due the primitives being easily identifiable using simpler and more robust methods.
 
+##Results
+Please find the complete analysis pipeline in the dashboard as well as the solutions to the challenges
+
+
 ## Case sequences
 ### Sequence 1
 __getting_in_and_out__
