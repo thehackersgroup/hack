@@ -96,11 +96,11 @@ __escalator_fun__
 
 ## Business_case
 __Future classifiers__
-*Posture: Lying, sitting, standing
-*Vigor: Resting, light, middle, strong, extreme
-*Motion type: Linear, rhythmic, rotational, erratic, stop-and-go
-*3D pattern: Stationary, occasional jumps, constantly climbing, small or large height amplitudes (e.g. aided vs. unaided)
-*Shocks: None, occasional, frequent (e.g. collisions between players, ball received, tennis stroke, soccer kick)
+* Posture: Lying, sitting, standing
+* Vigor: Resting, light, middle, strong, extreme
+* Motion type: Linear, rhythmic, rotational, erratic, stop-and-go
+* 3D pattern: Stationary, occasional jumps, constantly climbing, small or large height amplitudes (e.g. aided vs. unaided)
+* Shocks: None, occasional, frequent (e.g. collisions between players, ball received, tennis stroke, soccer kick)
 
 __B2C__
 Integrate (pre-)classified motion patterns into a tech wearable, e.g. for
